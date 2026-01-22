@@ -7,7 +7,20 @@ The model processes cleaned and structured data to understand market behavior an
 
 ### Tech Stack
 Python,
-Pandas, NumPy,
+Pandas, 
 Matplotlib, Seaborn,
 Scikit-Learn,
 Jupyter Notebook.
+
+### Approach
+Loaded the dataset using Pandas,
+Understanding data,
+performed EDA,
+Applied machine learning algorithms for analysis/prediction.
+
+### Outcome
+Gained insights into market trends and patterns,
+Built a structured ML workflow from raw data to model evaluation,
+Created a foundation that can be extended for real-world market forecasting and analytics
+
+
